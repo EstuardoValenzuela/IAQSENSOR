@@ -58,8 +58,6 @@
 #define BUZZER_PIN 32 // ESP32 GIOP21 pin connected to Buzzer's pin
 #define SCREEN_PIN 33 // ESP32 GIOP21 pin connected to Buzzer's pin
 
-//#define API_KEY "AIzaSyBqCO97KXcNagdqSoKuaEijeXQbCv-kU54"
-//#define DATABASE_URL "https://small-talk-fmek.firebaseio.com/" 
 
 // Init ESP32 timer 1
 ESP32Timer ITimer1(1);
