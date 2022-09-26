@@ -1,6 +1,6 @@
 # BME680 AIR QUALITY SENSOR + UI + FIREBASE
 El presente código involucra toda la programación que se llevo acabo para programar el microcontrolador ESP32-WROOM-32.
-La compilación de este codigo se realizó através de Arduino IDE version 
+La compilación de este codigo se realizó através de Arduino IDE
 ## ¿Qué puede hacer el usuario?
 
 - Configurar nombre y clave Wifi
